@@ -1,0 +1,12 @@
+=>decrease size of all components
+=>remove hover effect on navigation and fix to login
+=>decreade logo size and text
+=>get started link to designing section
+=>sliders
+=>redesign printing section box shadow, grey and white hover effect
+=>logo shade out in effect on hover and button grey-white to color, img grow on button hover
+=>creativity size decrease
+=>startup package grow on button hover
+=>little boy
+=>footer size decrease
+=>skyblue decrease 25%
